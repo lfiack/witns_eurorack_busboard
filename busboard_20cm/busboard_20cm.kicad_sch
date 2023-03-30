@@ -840,7 +840,7 @@
     (uuid d8365a49-83a6-4f8a-b632-574f5a95010c)
     (property "Reference" "J102" (id 0) (at 80.01 39.37 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 80.01 41.91 0))
-    (property "Footprint" "Connector_Molex:Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal" (id 2) (at 78.74 48.26 0)
+    (property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal" (id 2) (at 78.74 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 48.26 0)
@@ -877,7 +877,7 @@
     (uuid f35fa862-5295-4a1c-906a-148decc7486d)
     (property "Reference" "J101" (id 0) (at 57.15 39.37 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 57.15 41.91 0))
-    (property "Footprint" "Connector_Molex:Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal" (id 2) (at 55.88 48.26 0)
+    (property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal" (id 2) (at 55.88 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 55.88 48.26 0)
@@ -924,10 +924,10 @@
       (reference "H108") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/f35fa862-5295-4a1c-906a-148decc7486d"
-      (reference "J101") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_Molex:Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal")
+      (reference "J101") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal")
     )
     (path "/d8365a49-83a6-4f8a-b632-574f5a95010c"
-      (reference "J102") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_Molex:Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal")
+      (reference "J102") (unit 1) (value "Conn_02x03_Odd_Even") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal")
     )
     (path "/50a9fff8-aee7-4c81-892e-762262cca06d"
       (reference "J103") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical")
